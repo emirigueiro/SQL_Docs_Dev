@@ -436,7 +436,7 @@ def html(summary_docs: str, related_docs: str, sources_docs: str, products_docs:
     </head>
     <body>        
         <div class="logo-container">
-        <img src="../Pictures/Logo_SQL_Docs_Wide_Up.png" alt="Logo">
+        <img src="./Pictures/Logo_SQL_Docs_Wide_Up.PNG" alt="Logo">
         </div>
         <pre class="summary">{summary_docs}</pre>
         <pre class="summary">{related_docs}</pre>
